@@ -2,6 +2,12 @@
 name = "xrepl"
 version = "0.2.1"
 edition = "2021"
+description = "Exact, escape-free, atomic string replacement in files for AI agents and scripts"
+license = "MIT"
+repository = "https://github.com/marc47marc47/xrepl"
+readme = "README.md"
+keywords = ["replace", "cli", "ai-agent", "text", "refactor"]
+categories = ["command-line-utilities", "text-processing"]
 
 [dependencies]
 
